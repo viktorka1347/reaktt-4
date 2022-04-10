@@ -1,0 +1,13 @@
+.colorForm {
+    width: 15em;
+}
+
+.ColorForm-rgb {
+    display: block;
+    margin-top: 0.5em;
+    padding: 1em;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    border: 1px solid lightgray;
+}

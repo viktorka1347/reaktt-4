@@ -1,0 +1,24 @@
+.WalkString-cell {
+    padding: 0.7em 0;
+}
+
+.WalkString-col1 {
+    width: 35%;
+}
+
+.WalkString-col2 {
+    width: 43%;
+}
+
+.WalkString-col3 {
+    width: 22%;
+}
+
+.WalkString-button:hover {
+    color: orange;
+    cursor: default;
+}
+
+.WalkString-delete {
+    color: #aa0000;
+}

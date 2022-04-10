@@ -1,0 +1,37 @@
+.WalkAddForm {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.WalkAddForm * {
+    display: block;
+}
+
+.WalkAddForm input,
+.WalkAddForm-button {
+    padding: 0.5em 1em;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.WalkAddForm label {
+    width: 35%;
+}
+
+.WalkAddForm input {
+    margin-top: 0.8em;
+}
+
+.WalkAddForm-button {
+    width: 15%;
+}
+
+.WalkAddForm-button:hover {
+    background-color: orange;
+}
+
+.WalkAddForm-error {
+    margin: 0.5em 1em;
+    color: red;
+}

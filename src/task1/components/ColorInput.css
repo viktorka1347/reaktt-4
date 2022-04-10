@@ -1,0 +1,9 @@
+.ColorInput {
+    display: block;
+    padding: 1em;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 0.15em;
+    border: 1px solid lightgray;
+    background-color: white;
+}

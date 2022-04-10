@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: none;
+  font-family: 'Times New Roman', serif;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 1.4;
+  color: black;
+  background-color: transparent;
+}
+
+body {
+  background-color: white;
+}
