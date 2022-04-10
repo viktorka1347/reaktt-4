@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 import './WalkString.css';
 import WalkModel from '../models/WalkModel';
-import { dateToText, distanceToText } from "../utils/dateToText";
+import { dateToText, distanceToText } from '../utils/utils';
 
 function WalkString(props) {
   const { walk, onEditClick, onDeleteClick } = props;
